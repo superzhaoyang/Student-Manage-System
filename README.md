@@ -1,2 +1,3 @@
 # Student-Manage-System
-数据结构实验一之学生信息管理系统
+First go to the "学生信息管理系统"文件夹，and then tun the exe file.
+
